@@ -35,3 +35,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 # shopr
+This is a fully developed e-commerce store with Sanity.io and NEXT.js 18. It is powered by Clerk for Authentication, Shadcn/ui for shopping cart capabilities, Stripe for payment systems, Search capabilities, caching functionality, and coupon code functionality. Tailwind CSS powers the front end UI/UX. This is a complete and error free build. 
